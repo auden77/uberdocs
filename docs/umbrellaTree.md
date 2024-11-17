@@ -1,0 +1,2 @@
+# umbrellaTree
+umbrellaTree is a way to organize and manage git repositories in a directory tree. 
