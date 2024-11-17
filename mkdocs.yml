@@ -1,0 +1,5 @@
+site_name: uberdoc
+theme: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
