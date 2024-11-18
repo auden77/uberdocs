@@ -1,5 +1,6 @@
 # umbrellaTree
 ## Description
+==can umbrellaTree instead be a specification that uses the pre-existing git submodule to achieve this?==
 umbrellaTree is a way to organize and manage git repositories in a directory tree. It allows us to have a collection of git repositories, with each existing in a unique state. This can be useful when managing a large project that uses two or more repositories from disparate origins.
 
 An unbrellaTree is a directory tree which contains any number of subdirectories. In each subdirectoy of the tree exists the potential to contain one or more git repositories, or "leaves." Each leaf, being a separate repository, can have its own remote origin, or even be an origin itself. The leaves of the tree may exist in various states.
