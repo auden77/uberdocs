@@ -28,3 +28,7 @@ umbrellaTree instances should have the following name structure:
 ```
 umbrellaTree.<archetypal_name>.<instance_name>
 ```
+
+## Usage
+`git submodule init <name_of_submodule>` initializes the submodule recorded in the index (needs clarification)
+`git submodule pull <name_of_submodule>` pulls the content of the submodule from its origin
