@@ -3,4 +3,6 @@ theme: readthedocs
 nav:
   - Home: index.md
   - About: about.md
-  - umbrellaTree: umbrellaTree.md
+  - umbrellaTree:
+      - overview: umbrellaTree/umbrellaTree.md
+      - testing: umbrellaTree/testing.md
