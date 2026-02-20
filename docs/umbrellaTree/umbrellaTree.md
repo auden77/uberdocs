@@ -20,6 +20,9 @@ umbrellatree classes can be cloned by running a script which does the following:
   1. clone the umbrellatree manifest file
   2. iterate through the manifest and create the directory structure for every entry, then clone any repositories contained within the umbrellatree directory tree
 
+### umbrellatree leaf pools
+An umbrellatree leaf pool is a location were one or more leaves of an umbrellatree may be found, whether intentional or not. 
+
 ### umbrellatree Instances
 An umbrellatree instance is a git repository which has a directory structure which, either partially or completely, mirrors the directory structure of a class umbrelllatree.
 
