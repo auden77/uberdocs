@@ -1,10 +1,2 @@
 site_name: uberdoc
 theme: readthedocs
-nav:
-  - Home: index.md
-  - About: about.md
-  - umbrellaTree:
-      - overview: umbrellaTree/umbrellaTree.md
-      - testing: umbrellaTree/testing.md
-  - devices:
-      - public_keys: devices/device_public_keys.md
